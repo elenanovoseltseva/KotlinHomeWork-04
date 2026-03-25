@@ -11,7 +11,7 @@ class CommissionTest {
 
         val result = commission(typeCard, amount, previous)
 
-        assertEquals(35, result)
+        assertEquals(350, result)
     }
 
     @Test
